@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [002-H-01 SLS to CAN.PcbDoc]
+   Generated File[002-H-01 SLS to CAN-Plated.TXT]
+   Generated File[002-H-01 SLS to CAN-NonPlated.TXT]
+   Generated File[002-H-01 SLS to CAN.LDP]
+   Generated File[002-H-01 SLS to CAN.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 8:02:00 PM On 10/27/2020

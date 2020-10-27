@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Projects\Sunflare solar team\git\002-H-01-SLS-to-CAN-bus-Interface-PCB\002-H-01 SLS to CAN.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=002-h-01 sls to can-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=002-h-01 sls to can-nonplated.txt|DrillLayers=gtl,gbl

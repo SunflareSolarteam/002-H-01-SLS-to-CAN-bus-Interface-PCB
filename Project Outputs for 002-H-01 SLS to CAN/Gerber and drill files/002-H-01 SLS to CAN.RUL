@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: D:\Projects\Sunflare solar team\git\002-H-01-SLS-to-CAN-bus-Interface-PCB\002-H-01 SLS to CAN.PcbDoc
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.50
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance Top Layer|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance Bottom Layer|Scope=Board|Minimum=5.91

@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:55:13 PM On 10/25/2020
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [002-H-01 SLS to CAN.PrjPcb]
+   Generated File[002-H-01 SLS to CAN_BOM.pdf]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:55:14 PM On 10/25/2020

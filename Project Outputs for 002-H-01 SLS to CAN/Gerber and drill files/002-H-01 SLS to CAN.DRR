@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 002-H-01 SLS to CAN.PcbDoc   10/27/2020  8:01:59 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : 002-H-01 SLS to CAN-Plated.TXT
+ASCII Non-Plated RoundHoles File : 002-H-01 SLS to CAN-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.4mm)                                             Round             217       PTH        0.00inch (0.00mm)
+T2      20mil (0.5mm)                                             Round             20        PTH        0.00inch (0.00mm)
+T3      39mil (1mm)                                               Round             28        PTH        0.00inch (0.00mm)
+T4      47mil (1.2mm)                                             Round             6         PTH        0.00inch (0.00mm)
+T5      55mil (1.4mm)                                             Round             6         PTH        0.00inch (0.00mm)
+T6      62mil (1.57mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T7      205mil (5.2mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T8      128mil (3.25mm)                                           Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              287
+
+Total Processing Time (hh:mm:ss) : 00:00:00
