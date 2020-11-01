@@ -2,51 +2,67 @@
 FileName = 002-H-01 SLS to CAN.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : 002-H-01 SLS to CAN.GTL
+Generating : Bottom Overlay
+      File : 002-H-01 SLS to CAN.GBO
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D12
+    D13
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : 002-H-01 SLS to CAN.GM8
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : 002-H-01 SLS to CAN.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : 002-H-01 SLS to CAN.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
 *************************************************************
 
 *************************************************************
@@ -98,115 +114,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Board Outline
-      File : 002-H-01 SLS to CAN.GM8
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : 002-H-01 SLS to CAN.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D74
-    D75
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : 002-H-01 SLS to CAN.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D12
-    D13
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : 002-H-01 SLS to CAN.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : 002-H-01 SLS to CAN.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : 002-H-01 SLS to CAN.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-*************************************************************
-
-*************************************************************
 Generating : Top Paste
       File : 002-H-01 SLS to CAN.GTP
 
@@ -239,5 +146,98 @@ Used DCodes :
     D37
     D38
     D39
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : 002-H-01 SLS to CAN.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : 002-H-01 SLS to CAN.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D74
+    D75
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : 002-H-01 SLS to CAN.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
 *************************************************************
 
